@@ -1,4 +1,4 @@
-**Just a guy who enjoys making my developer workflow more awesome, building meaningful projects, and leveling up my craft!**
+**A guy who is hungry for knowledge, enjoys making my developer workflow more awesome and leveling up my craft!**
 
 <details>
   <summary><strong>Some Stats</strong></summary>
